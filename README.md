@@ -2,6 +2,14 @@
 
 # 🧠 NotebookLM - Segundo Cérebro Baseado na Metodologia de Benjamin Graham
 
+> Projeto desenvolvido durante o desafio da DIO utilizando o Google NotebookLM para criar um segundo cérebro baseado na metodologia de investimentos de Benjamin Graham.
+
+<p align="center">
+  <img src="imagens/notebooklm-projeto.png" alt="NotebookLM - Benjamin Graham" width="900">
+</p>
+
+---
+
 ## 📖 Sobre o Projeto
 
 Este projeto foi desenvolvido como parte do desafio da **DIO (Digital Innovation One)**, durante a aula do **Tech Educator Filipe Aguiar**, com o objetivo de explorar o potencial do **Google NotebookLM** na construção de um **Segundo Cérebro** (Second Brain) baseado em fontes confiáveis sobre investimentos.
